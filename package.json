@@ -6,8 +6,8 @@
   "author": "Tomohiro (Tomo) SHIOYA",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.4",
-    "@actions/github": "^2.2.0"
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^6.0.0"
   },
   "scripts": {
     "build": "tsc && ncc build lib/index.js"
